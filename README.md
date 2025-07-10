@@ -2,13 +2,7 @@
 
 ## Project Overview
 
-Welcome to my Smart Traffic Forecasting project, developed under the internship program with UpSkill Campus and UniConverge Technologies Pvt. Ltd. My goal is to leverage machine learning techniques to forecast traffic patterns in smart city environments, ultimately contributing to more efficient and sustainable transportation systems.
-
-## Internship Experience
-
-This project was undertaken as part of a 6-week internship program facilitated by UpSkill Campus in collaboration with UniConverge Technologies (UCT). Throughout the internship, we received mentorship, practical training, and real-world project experience, empowering us to apply Python programming, machine learning, and data science concepts to solve complex problems.
-
-I am immensely grateful to UpSkill Campus and UCT for providing us with this valuable opportunity to enhance our skills and make a meaningful contribution to the field of transportation management.
+Welcome to my Smart Traffic Forecasting project, developed under the internship program with TapTap under BlackBucks pvt.Ltd. My goal is to leverage machine learning techniques to forecast traffic patterns in smart city environments, ultimately contributing to more efficient and sustainable transportation systems.
 
 ## Problem Statement
 
