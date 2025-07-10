@@ -126,11 +126,6 @@ The following plots were generated:
 - **Time Series**: Traffic trends for each junction.
 - **Overlay Plot**: Comparison of predicted vs actual vehicle counts.
 
-Example:
-```python
-plt.hist(df_train['Vehicles'], bins=range(min(data), max(data) + 1))
-plt.title("Traffic Distribution")
-
 ## 🌍 Significance
 
 This project provides:
